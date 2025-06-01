@@ -1,14 +1,3 @@
-streamlit==1.32.0
-streamlit-camera-input-live==0.2.0
-streamlit-card==1.0.2
-streamlit-embedcode==0.1.2
-streamlit-extras==0.5.0
-streamlit-faker==0.0.3
-streamlit-image-coordinates==0.1.9
-streamlit-keyup==0.2.4
-streamlit-option-menu==0.2.0
-streamlit-toggle-switch==1.0.2
-streamlit-vertical-slider==2.5.5
-sympy==1.12.1
-pandas==2.2.3
-pygwalker==0.4.9.13
+streamlit
+pandas
+pygwalker
